@@ -1,4 +1,4 @@
-module github.com/stolen-programmer/ansi-escape
+module github.com/stolen-programmer/escape
 
 go 1.17
 
