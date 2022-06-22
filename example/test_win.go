@@ -5,7 +5,7 @@ package main
 
 import (
 	"fmt"
-	escape "github.com/stolen-programmer/ansi-escape"
+	escape "github.com/stolen-programmer/escape"
 )
 
 func main() {
